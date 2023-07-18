@@ -6,15 +6,10 @@
 
 - Chiedo all'utente il suo colore preferito;
 
-- definiamo lista vuota "frigorifero"
+- Abbino le informazioni con tutte le const presenti;
 
-- **SE** "listino_pizze" contiene "prosciutto/funghi" allora:
+- Inserisco un messaggio di benevenuto in un H1 ed aggiungo le informazioni associate, creando un'unica const;
 
-  - ordino "prosciutto/funghi"
+- Stampo nel Div dell'html tramite ID "Message" il const;
 
-  - **SE** la pizza avanza allora:
-
-    - la metto in lista "frigorifero"
-
-- **ALTRIMENTI**:
-  - non ordino niente
+- Fine.
